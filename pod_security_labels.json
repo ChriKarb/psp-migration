@@ -1,0 +1,15 @@
+{
+    "cert-manager": {},
+    "default": {
+        "pod-security.kubernetes.io/audit": "baseline",
+        "pod-security.kubernetes.io/enforce": "baseline",
+        "pod-security.kubernetes.io/warn": "baseline"
+    },
+    "hands-on": {},
+    "ingress-nginx": {},
+    "istio-system": {},
+    "kube-node-lease": {},
+    "kube-public": {},
+    "kube-system": {},
+    "kubernetes-dashboard": {}
+}
